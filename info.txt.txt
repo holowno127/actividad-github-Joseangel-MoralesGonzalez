@@ -1,0 +1,7 @@
+Morales Gonzalez Jose Angel
+
+03/02/2026
+
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, 
+clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+
