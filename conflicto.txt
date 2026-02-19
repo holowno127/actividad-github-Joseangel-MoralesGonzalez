@@ -1,3 +1,4 @@
 Proyecto: Git Conflicts
 Responsable: Morales Gonzalez Jose Angel
+Responsable: EQUIPO-B
 Version: 1.0
