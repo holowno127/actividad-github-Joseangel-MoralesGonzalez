@@ -1,0 +1,3 @@
+Proyecto: Git Conflicts
+Responsable: Morales Gonzalez Jose Angel
+Version: 1.0
